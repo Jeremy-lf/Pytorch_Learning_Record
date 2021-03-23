@@ -50,7 +50,7 @@ model = Model2()
 
 print(*model.named_parameters())
 
-net = torch.nn.DataParallel(model, device_ids=[0, 1, 2])
+net = torch.nn.DataParallel(model, device_ids=[0, 1])
 # output = net(input_var)
 
 optimizer = torch.optim.Adam(model.parameters())
@@ -67,3 +67,5 @@ print(optimizer.state_dict())
 
 
 x = Variable(torch.Tensor([2]),requires_grad=True)
+
+print(x)
