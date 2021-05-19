@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d6f9029-e606-4b97-bd91-5b4354208182" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytorch_app/Le_transform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pytorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytorch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch_doc/torch.nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/torch.nn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/AICamera" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/CUDA语义.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/CUDA语义.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/LeNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/LeNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/P_A_helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/P_A_helloworld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/Super_resolution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/Super_resolution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/android-demo-app" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/init_net.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/init_net.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/mobilenet_v3_small-047dcff4.pth" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/mobilenet_v3_small-047dcff4.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/one_hot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/one_hot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/predict_net.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/super_resolution.onnx" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/super_resolution.onnx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/torch.autograd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/torch.autograd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/序列化Serialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/序列化Serialization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/扩展Pytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/扩展Pytorch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/损失函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/损失函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/构建基本模型.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/构建基本模型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch官方文档/索引.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_doc/索引.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/GANs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/GANs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/GoogleNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/GoogleNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/LeNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/Le_minist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/RNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/RNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/RNN_classify.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/RNN_classify.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/ResNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/ResNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/autodecoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/autodecoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/datdasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/datdasets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/line_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/line_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/load_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/load_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/numpy_gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/numpy_gradient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/pytorch_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/pytorch_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/pytorch_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/pytorch_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/pytorch_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/pytorch_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/state_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/state_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/transform_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/transform_learning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch模型应用/word_embedding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_app/word_embedding.py" afterDir="false" />
-    </list>
+    <list default="true" id="8d6f9029-e606-4b97-bd91-5b4354208182" name="Default Changelist" comment="&quot;add paddlepaddle&quot;" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,12 +70,12 @@
           <entry key="Python Console" value="2479" />
           <entry key="dummy" value="29" />
           <entry key="py" value="5615" />
-          <entry key="txt" value="20" />
+          <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="PLAIN_TEXT" value="50" />
           <entry key="Python" value="8094" />
         </counts>
       </usages-collector>
@@ -148,8 +106,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PaddlePaddle/paddle_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#78#91#0" expanded="true" />
               </folding>
@@ -313,7 +271,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FaceMaskDetection" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Attention_module.py" />
   </component>
   <component name="RecentsManager">
@@ -500,7 +458,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621416151302</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;add paddlepaddle&quot;">
+      <created>1621416414035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621416414035</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;add paddlepaddle&quot;">
+      <created>1621416458626</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621416458626</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -514,7 +486,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.21255673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -531,8 +502,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.54679805" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.36124796" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.46633825" />
-      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32840723" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.46633825" />
+      <window_info anchor="bottom" id="File Transfer" order="13" visible="true" weight="0.32840723" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -773,6 +744,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="e#79#96#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -874,8 +848,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PaddlePaddle/paddle_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#78#91#0" expanded="true" />
           </folding>
