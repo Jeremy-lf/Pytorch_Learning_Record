@@ -56,3 +56,4 @@ label = torch.LongTensor(batch_size, 1).random_() % class_num
 
 print(label)
 one_hot = torch.zeros(batch_size, class_num).scatter_(1, label, 1)
+

@@ -4,6 +4,8 @@ Created on : 2021/3/17 13:19
 
 @author: Jeremy
 """
+"""
+
 import torch
 
 a = torch.Tensor(4,5)
@@ -11,6 +13,8 @@ print(a)
 print(a[0:1,:2])
 print(a[0,:2])  # 注意和前一种索引出来的值相同，shape不同
 print(a[[1,2]])  # 容器索引
+
+"""
 
 '''
 3.3845e+15  0.0000e+00  3.3846e+15  0.0000e+00  3.3845e+15
@@ -33,3 +37,15 @@ print(a[[1,2]])  # 容器索引
  3.3845e+15  0.0000e+00  3.3846e+15  0.0000e+00  0.0000e+00
 [torch.FloatTensor of size 2x5]
 '''
+
+import matplotlib.pyplot as plt
+labels='frogs','hogs','dogs','logs'
+sizes=15,20,45,10
+colors='yellowgreen','gold','lightskyblue','lightcoral'
+explode=0,0.1,0,0
+plt.pie(sizes,explode=explode,labels=labels,colors=colors,autopct='%1.1f%%',shadow=True,startangle=50)
+plt.show()
+
+
+
+import cv2
